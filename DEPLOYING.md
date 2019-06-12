@@ -16,7 +16,7 @@ First we need to install **[git](https://help.github.com/en/articles/set-up-git)
 
 ```
 sudo apt update
-sudo apt instal git docker-compose
+sudo apt install git docker-compose
 ```
 
 Then start and enable the docker service and verify operation
@@ -39,7 +39,7 @@ Navigate to where you want the source files to live on your server (e.g. `/opt`)
 
 ```
 cd /opt
-git clone https://github.com/ViderumGlobal/ckan-cloud-docker.git
+git clone https://github.com/wichoro/ckan-cloud-docker.git
 cd ckan-cloud-docker
 ```
 
